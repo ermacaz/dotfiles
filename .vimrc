@@ -1,0 +1,19 @@
+syntax on
+set number
+set cursorline
+set shiftwidth=2
+set tabstop=2
+set expandtab
+set nobackup
+set nowrap
+set ignorecase
+set smartcase
+set showmatch
+set hlsearch
+set incsearch
+set ignorecase
+set history=1000
+set wildmenu
+set wildmode=list:longest
+set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
+
